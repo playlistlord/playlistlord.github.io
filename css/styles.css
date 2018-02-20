@@ -40,7 +40,8 @@
 	height: 600px;
  }
  #mapid { 
-	height: 90%;
+	position:absolute;
+	height: 100%;
 }
 
 .qwe {
