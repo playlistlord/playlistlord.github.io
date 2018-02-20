@@ -108,21 +108,22 @@ var polygon18961 = L.polygon([
 	],
 	{color: '#ff9191'}
 ).addTo(mymap);
-var polygon18962 = L.polygon([
-		[55.79370891, 49.10700706],
+var polygon18962= L.polygon([
+	[55.79370891, 49.10700706],
+	[55.79139, 49.1074711],
+	[55.795684, 49.102921]
+	],
+	{color: '#82cdff'}
+).addTo(mymap);
+var polygon18963 = L.polygon([
+	[55.79370891, 49.10700706],
 	[55.795684, 49.102921],
 	[55.794593, 49.109455],
 	[55.794557, 49.109482]
 	],
 	{color: '#82cdff'}
 ).addTo(mymap);
-var polygon18963 = L.polygon([
-		[55.79370891, 49.10700706],
-	[55.79139, 49.1074711],
-	[55.795684, 49.102921]
-	],
-	{color: '#82cdff'}
-).addTo(mymap);
+
 
 var circle9 = L.circle([55.79441132, 49.1117747], {
 		color: 'red',
