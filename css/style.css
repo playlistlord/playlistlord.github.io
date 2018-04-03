@@ -16,9 +16,7 @@
 /* .panel-body{
     display: none;
 } */
-body{
-    background-image: url(../img/background.png);    
-}
+
 tr{
     cursor: pointer;
 }
