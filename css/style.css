@@ -31,7 +31,10 @@ tr{
 }
 tr:nth-child(even) {background: #D9E1F2}
 tr:nth-child(odd) {background: #B4C6E7}
-
+.new{
+    background: #464646 !important;
+    color:white !important;
+}
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{
     font-family:Lobster;
