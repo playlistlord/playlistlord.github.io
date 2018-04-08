@@ -6,7 +6,7 @@ $(function () {
         striped: true,
         oddRow: { 'background-color': '#B4C6E7' },
         evenRow: { 'background-color': '#D9E1F2' },
-        searchType: 'strict'
+        searchType: 'deafault'
     });
     
     // $( '#table' ).searchable({
