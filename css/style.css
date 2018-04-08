@@ -8,10 +8,10 @@
 .panel-heading{
     font-family:Lobster;
 }
-.form-control{
+/* .form-control{
     font-family:Lobster !important;
     font-size: 20px !important;
-}
+} */
 .panel-title{
     font-size:26px !important;
 }
@@ -37,7 +37,7 @@ tr:nth-child(odd) {background: #B4C6E7}
 }
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{
-    font-family:Lobster;
+    font-family:Arial;
     font-size:16px;
     padding:10px 5px;
     /* border-style:solid;
@@ -47,7 +47,7 @@ tr:nth-child(odd) {background: #B4C6E7}
     /* border-color:black; */
 }
 .tg th{
-    font-family:Lobster;
+    font-family:Arial;
     font-size:16px;
     font-weight:normal;
     padding:10px 5px;
